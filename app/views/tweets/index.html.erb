@@ -1,5 +1,13 @@
 <div class="contents row">
   <% @tweets.each do |tweet| %>
+    <div class="more">
+        <span><%= image_tag 'arrow_top.png' %></span>
+        <ul class="more_list">
+          <li>
+            <%= link_to '削除', "/tweets/#{tweet.id}", method: :delete %>
+          </li>
+        </ul>
+      </div> 
       <p><%= tweet.text %></p>
   <% end %>
 </div>
