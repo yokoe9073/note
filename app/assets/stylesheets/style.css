@@ -786,7 +786,7 @@ header.header .user_nav span {
   awidth: 150px;
   aheight: 50px;
   afont-size: 1em;
-  cursor: pointer;
+  acursor: pointer;
   position: relative;
 }
 
