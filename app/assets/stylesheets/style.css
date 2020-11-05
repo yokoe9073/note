@@ -780,7 +780,7 @@ header.header .user_nav {
 
 header.header .user_nav span {
   top: 5px;
-  adisplay: block;
+  display: block;
   afloat: left;
   amargin-left: 30px;
   awidth: 150px;
