@@ -779,7 +779,7 @@ header.header .user_nav {
 }
 
 header.header .user_nav span {
-  atop: 5px;
+  top: 5px;
   adisplay: block;
   afloat: left;
   amargin-left: 30px;
