@@ -697,7 +697,7 @@ form input[type="submit"] {
   --o-transition-duration: 0.2s;
   --webkit-transition-duration: 0.2s;
   -transition-duration: 0.2s;
-  -moz-transition-timing-function: linear;
+  --moz-transition-timing-function: linear;
   -o-transition-timing-function: linear;
   -webkit-transition-timing-function: linear;
   transition-timing-function: linear;
