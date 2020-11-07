@@ -693,7 +693,7 @@ form input[type="submit"] {
   -o-transition-property: all;
   -webkit-transition-property: all;
   transition-property: all;
-  --moz-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
   --o-transition-duration: 0.2s;
   --webkit-transition-duration: 0.2s;
   -transition-duration: 0.2s;
