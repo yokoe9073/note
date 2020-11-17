@@ -788,7 +788,7 @@ header.header .user_nav span {
   -font-size: 1em;
   -cursor: pointer;
   -position: relative;
-}
+-}
 
 header.header .user_nav span:after {
   content: '▼';
