@@ -787,7 +787,7 @@ header.header .user_nav span {
   -height: 50px;
   -font-size: 1em;
   -cursor: pointer;
-  position: relative;
+  -position: relative;
 }
 
 header.header .user_nav span:after {
