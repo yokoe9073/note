@@ -781,7 +781,7 @@ header.header .user_nav {
 header.header .user_nav span {
   -top: 5px;
   -display: block;
-  float: left;
+  -float: left;
   margin-left: 30px;
   width: 150px;
   height: 50px;
